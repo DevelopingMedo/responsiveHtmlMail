@@ -1,2 +1,2 @@
-# medoResponsiveHTMLEMail
+# responsiveHtmlMail
 My responsive HTML Email
